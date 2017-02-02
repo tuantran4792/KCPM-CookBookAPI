@@ -108,3 +108,40 @@ E:\Study\HCDH\HKIV\KCPM\CookBook\API\Web Service\bin\System.Web.WebPages.Deploym
 E:\Study\HCDH\HKIV\KCPM\CookBook\API\Web Service\bin\System.Web.WebPages.Razor.xml
 E:\Study\HCDH\HKIV\KCPM\CookBook\API\Web Service\obj\Debug\Web Service.dll
 E:\Study\HCDH\HKIV\KCPM\CookBook\API\Web Service\obj\Debug\Web Service.pdb
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\Web Service.dll.config
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\Web Service.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\Web Service.pdb
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\EntityFramework.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\HtmlAgilityPack.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\Microsoft.Web.Infrastructure.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\Newtonsoft.Json.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Net.Http.Formatting.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Cors.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Helpers.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Http.Cors.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Http.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Http.Tracing.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Http.WebHost.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Mvc.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Razor.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.WebPages.Deployment.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.WebPages.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.WebPages.Razor.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\EntityFramework.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\HtmlAgilityPack.pdb
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\HtmlAgilityPack.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\Newtonsoft.Json.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Net.Http.Formatting.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Helpers.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Http.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Http.Cors.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Http.Tracing.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Http.WebHost.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Mvc.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Razor.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.WebPages.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.WebPages.Deployment.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.WebPages.Razor.xml
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\obj\Debug\Web Service.dll
+E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\obj\Debug\Web Service.pdb
