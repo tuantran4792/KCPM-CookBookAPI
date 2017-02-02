@@ -142,6 +142,5 @@ E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.Raz
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.WebPages.xml
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.WebPages.Deployment.xml
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\bin\System.Web.WebPages.Razor.xml
-E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\obj\Debug\Web Service.dll
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBookAPI\Web Service\obj\Debug\Web Service.pdb
